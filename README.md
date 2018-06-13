@@ -3,7 +3,7 @@
 
 The repository is still in the building stage and will be complete soon. The mini projects that are a part of the course will be hosted as different repositories, links of which shall soon be updated below, as I progress further in the course.
 
- - Interactive Dictionary
+ - Interactive Dictionary - [pyDiction](https://github.com/Shubh96/pyDiction)
  - Webmaps with Python and Folium
  - Website Blocker
  - Website with Python and Flask
