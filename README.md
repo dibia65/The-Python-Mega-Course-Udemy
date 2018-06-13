@@ -18,4 +18,4 @@ The notebook(s) included in the repository have been made by me as per my unders
 
  - [Basics of Python](https://github.com/Shubh96/The-Python-Mega-Course-Udemy/blob/master/1.%20Basics%20of%20Python.ipynb)
  - [Pandas](https://github.com/Shubh96/The-Python-Mega-Course-Udemy/blob/master/2.%20Pandas.ipynb)
- - [Numpy] ()
+ - [Numpy] (https://github.com/Shubh96/The-Python-Mega-Course-Udemy/blob/master/3.%20Numpy.ipynb)
