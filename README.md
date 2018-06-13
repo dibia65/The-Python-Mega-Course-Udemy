@@ -17,3 +17,5 @@ The repository is still in the building stage and will be complete soon. The min
 The notebook(s) included in the repository have been made by me as per my understanding of the course and up to my relevance. I have included the basic syntax and examples for the various concepts in it. It contains 10 sections covering the basics of Python. I have broken down the entire course into several notebooks for my ease and they are listed as below.
 
  - [Basics of Python](https://github.com/Shubh96/The-Python-Mega-Course-Udemy/blob/master/1.%20Basics%20of%20Python.ipynb)
+ - [Pandas](https://github.com/Shubh96/The-Python-Mega-Course-Udemy/blob/master/2.%20Pandas.ipynb)
+ - [Numpy] ()
