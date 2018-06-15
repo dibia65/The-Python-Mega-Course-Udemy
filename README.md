@@ -4,8 +4,8 @@
 The repository is still in the building stage and will be complete soon. The mini projects that are a part of the course will be hosted as different repositories, links of which shall soon be updated below, as I progress further in the course.
 
  - Interactive Dictionary - [pyDiction](https://github.com/Shubh96/pyDiction)
- - Webmaps with Python and Folium
- - Website Blocker
+ - Webmaps with Python and Folium - [pyMaps](https://github.com/Shubh96/pyMaps)
+ - Website Blocker - [pyBlocker](https://github.com/Shubh96/pyBlocker)
  - Website with Python and Flask
  - A Desktop Database Application
  - Webcam Motion Detector
